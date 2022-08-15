@@ -23,3 +23,8 @@ We have been asked to analyze Amazon reviews written by members of the paid Amaz
 - What percentage of Vine and and non vine reviews were 5 stars?
 
 ![Alt text](https://github.com/JoshTrewhella/Amazon_Vine_Analysis/blob/main/Images/percentages.PNG)
+
+## Summary
+Seeing that 51.0% of the paid reviews are 5-stars and 38.7% of the unpaid reviews were 5-star implies that there a bias and you are more likely to get a higher review if they are paid. 
+
+For further analysis I would include all review ratings to see if average review is higher for paid than unpaid. 
